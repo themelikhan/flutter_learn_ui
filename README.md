@@ -1,4 +1,4 @@
-# adobe_xd
+# Flutter Eğitim içerikli ui çalışması
 
 A new Flutter project.
 
